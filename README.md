@@ -1,5 +1,7 @@
 # GoPro live-streaming without Internet connectivity
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/MatthiasKunnen/goprolocal.svg)](https://pkg.go.dev/github.com/MatthiasKunnen/goprolocal)
+
 This program responds to a GoPro's internet connectivity checks so that it successfully connects to
 a WiFi network without internet access. This allows live-streaming to a local server. 
 
